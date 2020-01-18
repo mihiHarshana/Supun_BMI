@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="HeaderLabel">Welcome to BMI calculator</string>
+    <string name="lblWeight">Weight (Kg)</string>
+    <string name="lblHeight">Height (m)</string>
+    <string name="lblResult">BMI Value</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnClear">Clear</string>
+    <string name="lblInformation">Enter Weight in Kilograms and Height in meters</string>
+    <string name="lblRange1">Range1</string>
+    <string name="lblRange2">Range2</string>
+    <string name="lblRange3">Range3</string>
+    <string name="btnClose">Close</string>
+    <string name="lblBottomInfor">With compliments from Faculty of Medicine Ragama</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
